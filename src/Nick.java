@@ -10,6 +10,8 @@ public class Nick {
 
     public String name5="naga";
 
+    public String name6="babu";
+
 
 
 }
