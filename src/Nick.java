@@ -8,5 +8,7 @@ public class Nick {
 
     public String name4="chiru";
 
+    public String name4="pinkyyyy";
+
 
 }
